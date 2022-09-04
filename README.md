@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet TOPAK</h1>
 <h3 align="center">Full Stack Developer and Graphic Designer</h3>
 
-- 🔭 I’m currently working on [SERÇEV Robotics 8862](https://sercevrobotics.com)
-
-- 💻 I’m currently working on [A-Tech Bilişim](https://atechbilisim.net)
-
 - 📫 How to reach me **tr.ahmettopak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
