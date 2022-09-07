@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet TOPAK</h1>
-<h3 align="center">Full Stack Developer and Graphic Designer</h3>
+<h3 align="center">Software Developer and Graphic Designer</h3>
 
 - 📫 How to reach me **tr.ahmettopak@gmail.com**
 
