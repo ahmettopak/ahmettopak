@@ -11,6 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=ahmettopak&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmettopak&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmettopak&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmettopak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
