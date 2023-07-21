@@ -16,6 +16,4 @@
 </picture>
 
 
-
-![](https://github-readme-stats.vercel.app/api?username=ahmettopak&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmettopak&theme=radical&hide_border=true)<br/>
